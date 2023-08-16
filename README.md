@@ -21,7 +21,4 @@ Assistant researcher
 
 ### Optimization of Metal Nitride Coupled Plasmon Waveguide Resonance Sensors Using a Genetic Algorithm
 [Publication](https://www.mdpi.com/2624-7402/4/1/3#)
-
-
-
-
+![](images/SPR.png)
