@@ -1,9 +1,9 @@
 # Data Scientist
 
 ### Education
-Ph.D., Physics | Kasetsart University (2022)
-M.S., Physics | Kasetsart University (2015)
-B.S., Physics | Kasetsart University (2012)
+- Ph.D., Physics | Kasetsart University (_2022_)
+- M.S., Physics | Kasetsart University (_2015_)
+- B.S., Physics | Kasetsart University (_2012_)
 
 ### Work Experience
 Assistant researcher
