@@ -13,4 +13,4 @@ Assistant researcher
 - Showcased the project at the National Research Expo 2019 held at the Centara Grand Hotel and Bangkok Convention Center, Central World, Bangkok.
 - Preparation and publish articles “Automatic Classification of the Ripeness Stage of Mango Fruit Using a Machine Learning Approach.” (Cited by 11) 
 
-[](https://github.com/PanaritSa/portfolio/blob/main/images/Mango_label_SMOTETomek.png)
+![](https://github.com/PanaritSa/portfolio/blob/main/images/Mango_label_SMOTETomek.png)
