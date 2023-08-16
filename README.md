@@ -27,7 +27,7 @@ Technical Skills: Python, MATLAB
 ![](/images/Mango_label_SMOTETomek.png)
 
 ### Optimization of Metal Nitride Coupled Plasmon Waveguide Resonance Sensors Using a Genetic Algorithm
-[Publication](https://www.mdpi.com/2624-7402/4/1/3#)
+[Publication](https://doi.org/10.3390/photonics9050332)
 ![](images/SPR.png)
 
 ### Supercontinuum generation in chalcogenide waveguides
