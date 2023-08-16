@@ -12,3 +12,5 @@ Assistant researcher
 - Developed a program in Python for nondestructive detection, accurately classifying the maturity level of Nam Dok Mai Si Thong mangoes with a mean accuracy of 89.6% for unripe, ripe, and overripe classes.
 - Showcased the project at the National Research Expo 2019 held at the Centara Grand Hotel and Bangkok Convention Center, Central World, Bangkok.
 - Preparation and publish articles “Automatic Classification of the Ripeness Stage of Mango Fruit Using a Machine Learning Approach.” (Cited by 11) 
+
+https://github.com/PanaritSa/portfolio/blob/main/images/Mango_label_SMOTETomek.png
