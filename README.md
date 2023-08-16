@@ -1,4 +1,5 @@
 # Data Scientist
+Technical Skills: Python, MATLAB
 
 ### Education
 - Ph.D., Physics | Kasetsart University (_2022_)
