@@ -24,7 +24,7 @@ Technical Skills: Python, MATLAB
 ## Project 
 ### Ripeness stage classification of mango
 [Publication](https://www.mdpi.com/2624-7402/4/1/3#)
-![](/images/Mango_label_SMOTETomek.png)
+![](/images/Mango_process.png)
 
 ### Optimization of Metal Nitride Coupled Plasmon Waveguide Resonance Sensors Using a Genetic Algorithm
 [Publication](https://doi.org/10.3390/photonics9050332)
